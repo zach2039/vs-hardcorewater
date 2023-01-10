@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "hardcorewater",
+  "name": "Hardcore Water",
+  "authors": ["Zach2039"],
+  "description": "Prevents buckets from placing down water source blocks.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.17.9"
+  }
+}

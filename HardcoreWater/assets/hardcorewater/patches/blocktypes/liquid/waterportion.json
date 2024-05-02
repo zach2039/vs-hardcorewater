@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "/attributes/waterTightContainerProps/whenSpilled/stackByFillLevel",
+        "value": {
+			"10": { "type": "block", "code": "water-still-6" } 
+		},
+        "file": "game:itemtypes/liquid/waterportion"
+    }
+]

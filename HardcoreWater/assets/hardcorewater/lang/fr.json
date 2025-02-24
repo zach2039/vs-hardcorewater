@@ -1,0 +1,31 @@
+{
+  "craftinginfo-aqueducts-title": "Mécanique de Jeu : Aqueducs",
+  "craftinginfo-aqueducts-text": "<strong>Aqueducts</strong><br><i>Les aqueducs peuvent être utilisés pour transporter de longues distances d'eau.</i><br><br><a href=\"handbooksearch://section d'aqueduc\">Les sections d'aqueduc</a> doivent être placées à côté d'une source d'eau, avec l'un des côtés ouverts face à la source. D'autres sections peuvent être placées et créeront de l'eau \"non source\" à condition que le bloc source d'origine ne soit pas enlevé ni que les sections soient déconnectées.",
+    
+  "block-aqueduct-limestone*": "Section d'aqueduc en calcaire",
+  "block-aqueduct-sandstone*": "Section d'aqueduc en grès",
+  "block-aqueduct-basalt*": "Section d'aqueduc en basalte",
+  "block-aqueduct-granite*": "Section d'aqueduc en granite",
+
+  "block-aqueduct-acacia*": "Section d'aqueduc en acacia",
+  "block-aqueduct-aged*": "Section d'aqueduc vieillie",
+  "block-aqueduct-baldcypress*": "Section d'aqueduc en cyprès chauve",
+  "block-aqueduct-birch*": "Section d'aqueduc en bouleau",
+  "block-aqueduct-ebony*": "Section d'aqueduc en ébène",
+  "block-aqueduct-kapok*": "Section d'aqueduc en fromager",
+  "block-aqueduct-larch*": "Section d'aqueduc en mélèze",
+  "block-aqueduct-maple*": "Section d'aqueduc en érable",
+  "block-aqueduct-mossy*": "Section d'aqueduc moussue",
+  "block-aqueduct-oak*": "Section d'aqueduc en chêne",
+  "block-aqueduct-pine*": "Section d'aqueduc en pin",
+  "block-aqueduct-purpleheart*": "Section d'aqueduc en peltogyne",
+  "block-aqueduct-redwood*": "Section d'aqueduc en séquoia",
+  "block-aqueduct-veryagedrotten*": "Section d'aqueduc pourrie",
+  "block-aqueduct-veryaged*": "Section d'aqueduc très vieillie",
+  "block-aqueduct-walnut*": "Section d'aqueduc en noyer",
+
+  "block-enclosedaqueduct-limestone*": "Section d'aqueduc recouverte en calcaire",
+  "block-enclosedaqueduct-sandstone*": "Section d'aqueduc recouverte en grès",
+  "block-enclosedaqueduct-basalt*": "Section d'aqueduc recouverte en basalte",
+  "block-enclosedaqueduct-granite*": "Section d'aqueduc recouverte en granite"
+}
